@@ -22,7 +22,9 @@
  you will notice that the video is playing and corresponding subtitles are showing up as shown in the picture 
  ![Screenshot](./images/ui2.png)
  
+ you can also see that there are only Indian languages in the list displayed in the below image
  
+ ![Screenshot](./images/ui3.png)
  
  
  
