@@ -38,15 +38,15 @@ MIT © Harvey Zack
  
  you will see the UI similar to this 
  
- ![Screenshot](./images/ui.png)
+ ![Screenshot](./images/ui1.png)
  
  
  
  
  paste the url of the youtube video you wanted to watch click submit 
  
- you will notice that the video is playing and corresponding subtitles are showing up 
- 
+ you will notice that the video is playing and corresponding subtitles are showing up as shown in the picture 
+ ![Screenshot](./images/ui2.png)
  
  
  
