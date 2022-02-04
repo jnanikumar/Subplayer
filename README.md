@@ -1,30 +1,4 @@
-<!-- # SubPlayer
 
-> SubPlayer is an online subtitle editor
-
-![Screenshot](./images/screenshot6.png)
-
-## Homepage
-
-[https://subplayer.js.org](https://subplayer.js.org)
-
-## Donations
-
-We accept donations through these channels:
-
-![pay](./public/pay.png)
-
--   [Paypal](https://www.paypal.me/harveyzack)
-
-## QQ Group
-
-![QQ Group](./public/qqgroup.png)
-
-## License
-
-MIT © Harvey Zack
- -->
- 
  
  
  initially you have to clone the repo into your local storage 
@@ -43,7 +17,7 @@ MIT © Harvey Zack
  
  
  
- paste the url of the youtube video you wanted to watch click submit 
+ paste the url of the youtube video you wanted to watch in the input box click submit 
  
  you will notice that the video is playing and corresponding subtitles are showing up as shown in the picture 
  ![Screenshot](./images/ui2.png)
