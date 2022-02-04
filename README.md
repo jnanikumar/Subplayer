@@ -38,7 +38,7 @@ MIT © Harvey Zack
  
  you will see the UI similar to this 
  
- ![Screenshot](./images/Screenshot (132).png)
+ ![Screenshot](./images/ui.png)
  
  
  
